@@ -32,8 +32,4 @@ React.js (Frontend framework)
 
 Tailwind CSS (Styling for consistency and responsiveness)
 
-ShadCN/UI (UI components for premium aesthetics)
 
-Framer Motion (For animations)
-
-Lucide React (Icons)
